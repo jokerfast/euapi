@@ -4,7 +4,7 @@
 @date_default_timezone_set('Europe/Moscow');
 $z_test_config = $z_mode = '';
 /*config*/
-$z_url = 'https://twtds.info';//ссылка на TDS <--- !!!
+$z_url = 'https://cz-herbena.info';//ссылка на TDS <--- !!!
 $z_key_api_host = '3Nc4kOx1WFic';//API ключ
 $z_conf_edit = 0;//разрешить редактирование конфига из админки TDS (0/1)
 $z_conf_file = 'api.ini';//название файла с конфигом (переименуйте!)
